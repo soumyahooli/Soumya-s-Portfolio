@@ -1,0 +1,27 @@
+{
+    "aboutMe":[
+        {   "id" :1,
+            "point":"Accomplished System Engineer offering<b> more than 2 years & 6 months </b>of Web-app design, development, troubleshooting, maintenance & support of Desktop & mobile(windows & android) Applications."
+        },
+        {   
+            "id" :2,
+            "point":"Competent in providing a web-based solution with a strong working knowledge in<b> HTML5, CSS3, JavaScript, jQuery & Angular JS.</b> Experience working on Iterative Methodology Agile Scrum."
+        },
+        {
+            "id":3,
+            "point":"Proficient in Responsive Web design using <b>Bootstrap</b> focusing user-interactions on <b>desktop & mobile platforms</b>. Familiar with <b>SASS/LESS</b>."
+        },
+        {
+            "id" : 4,
+            "point" :"Adept in Development tools such as Eclipse, Sublime Text 3, Brackets, Firebug, Apache Tomcat, Microsoft Visual Studio Express, SVN, Perforce. Calculate and provide estimates, Extensive knowledge of SDLC, Defect Life Cycle, Build & Integration activities."
+        },
+                {
+            "id" : 5,
+            "point" :"Successfully developed and delivered Web & Desktop application projects to clients -<b> Qualcomm(USA), StarBazaar(India) & Viom Networks(India)</b>."
+        },
+                {
+            "id" : 6,
+            "point" :"Worked at length & maintained a productive relationship with Front-End Lead, Designers, Service Integration team, backend database team, Business Delivery Manager with good communication & interpersonal skills; Experienced in mentoring new staff & leading new developers."
+        }
+    ]
+}

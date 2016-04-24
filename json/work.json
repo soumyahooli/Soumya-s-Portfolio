@@ -1,0 +1,24 @@
+{
+    "work":[
+        {
+            "id" :1 ,
+            "target" :"workFirst",
+            "start" : "October 2012",
+            "end" : "May 2014" ,
+            "company" : "Tata Consultancy Services",
+            "designation" : "Front End Developer",
+            "project" : "Involved in Developing Enterprise and End User Mobile applications – Viom Networks and Star Bazaar Application-https://www.starbazaarindia.com/starbazaar_app.aspx."
+        },
+        
+        
+        {
+            "id" : 2,
+            "target" : "workSecond",
+            "start" : "June 2014",
+            "end" : "March 2015" ,
+            "company" : "Tata Consultancy Services",
+            "designation" : "Front End Developer",
+            "project" : "Involved in Development of Responsive Web Pages for Destkop Applications and Mobile Devices of LearnIt (a Learning Management System) for an US based Telecom company."
+        }
+    ]
+}

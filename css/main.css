@@ -1,0 +1,73 @@
+@media screen and (min-width: 768px)
+.header {
+ margin-bottom: 30px;  
+}
+.nav-pills>li.active>a {
+    background-color: #332e3c !important;
+    color: #d5393f !important;
+    border-radius: 0px;
+}
+
+nav > ul > li >a  {
+    color: #fff;
+    text-decoration: none;
+}
+    .aboutContent h4{color:#332e3c}
+.nav>li>a:hover {
+    color: #d5393f;
+    border-radius: 0px;
+ background-color: #332e3c !important;
+}
+.header{
+    padding: 10px;
+     background-color: #332e3c;
+    border-bottom: 1px solid #e5e5e5;
+}
+.table>tbody>tr>td{border-top: none;}
+.panel-default>.panel-heading {
+    color: #332e3c;
+}
+
+.panel-title{font-weight: bold;}
+.btn-primary, .btn-primary:hover, .btn-primary:active , .btn-primary:focus{
+    color: #fff;
+    background-color: #d5393f !important;
+    border-color: #d5393f !important;
+}
+.panel-link{word-break: break-all;width:80%}
+
+.jumbotron{
+    margin-top:25px;
+    background: 	#f5f5f5;
+    -webkit-transition: background 2s; /* For Safari 3.1 to 6.0 */
+    transition: background 2s;
+}
+
+.jumbotron h1{
+    color:#332e3c
+}
+
+.jumbotron:hover{
+    background: #d5393f}
+
+.glyphicon{color:#d5393f}
+.aboutContent , .skillContent , .contactContent{
+    display:none;
+margin-top:20px;
+}
+.aboutContent .well{ background-color: 	#f5f5f5;
+    border-color: #ddd;}
+.footer{color:#332e3c}
+#respFirst{color:#332e3c}
+.td-left {
+    width: 25%;
+}
+.td-right {
+    width: 75%;
+}
+.myImage{display:none;}
+
+.githubImg {margin-top:10px ; color:#fff}
+
+.workContent .panel-body{padding:2px}
+
